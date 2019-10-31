@@ -1,6 +1,5 @@
-import sys
 import unittest
-sys.path.append("/home/admin1/cicd-buzz/")
+
 from buzz import generator
 
 def test_sample_single_word():
